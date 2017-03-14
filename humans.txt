@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Matt Bonazzoli mtlb215@gmail.com @matt.bonazzoli
 
 # THANKS
 
