@@ -1,9 +1,11 @@
 #Start Web Project
 
+THis is a simple website project for showing how Git and Github together
+
 ## Introduction
 
 ## Purpose
 
-##Dedployment
+##Deployment
 
 ## How To Contribute
