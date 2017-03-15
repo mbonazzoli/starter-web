@@ -1,7 +1,7 @@
 #Start Web Project
 
 This is a simple website project for showing how Git and Github
-together. Adding more text for rebasing example.
+together. Adding more text for rebasing example, then more changes from my feature branch too
 
 ## Introduction
 
